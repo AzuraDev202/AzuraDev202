@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I'm a passionate developer, creator, and lifelong 
 ### 🌟 Featured Projects
 
 - [2048 Game](https://github.com/Azura-Deeper/2048_Game) — Classic logic game with a modern twist!
-- [OPLang Programming Language](https://github.com/Azura-Deeper/OPLang-Programming-Language) — My custom programming language project.
 - [2D TopDown RPG](https://github.com/Azura-Deeper/2D_TopDown_RPG) — An exciting open-source role-playing game.
 
 ---
