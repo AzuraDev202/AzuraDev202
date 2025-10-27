@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Azura-Deeper&fontSize=50&animation=fadeIn&fontAlignY=40" alt="Azura-Deeper Banner"/>
 </div>
 
-## 👋 Hi, I'm Azura-Deeper!
+## 👋 Hi, I'm AzuraDev202!
 
 Welcome to my GitHub profile! I'm a passionate developer, creator, and lifelong learner who loves to build cool things and solve interesting problems.
 
