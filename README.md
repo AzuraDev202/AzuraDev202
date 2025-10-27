@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Azura-Deeper&fontSize=50&animation=fadeIn&fontAlignY=40" alt="Azura-Deeper Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Azura-Deeper&fontSize=50&animation=fadeIn&fontAlignY=40" alt="AzuraDev202 Banner"/>
 </div>
 
 ## 👋 Hi, I'm AzuraDev202!
