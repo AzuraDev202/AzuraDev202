@@ -27,22 +27,22 @@ Welcome to my GitHub profile! I'm a passionate developer, creator, and lifelong 
 
 ### 🌟 Featured Projects
 
-- [2048 Game](https://github.com/Azura-Deeper/2048_Game) — Classic logic game with a modern twist!
-- [2D TopDown RPG](https://github.com/Azura-Deeper/2D_TopDown_RPG) — An exciting open-source role-playing game.
+- [2048 Game](https://github.com/AzuraDev202/2048_Game) — Classic logic game with a modern twist!
+- [2D TopDown RPG](https://github.com/AzuraDev202/2D_TopDown_RPG) — An exciting open-source role-playing game.
 
 ---
 
 ### 📫 How to reach me
 
 - Email: **hunghs25202@gmail.com**
-- GitHub: [Azura-Deeper](https://github.com/Azura-Deeper)
+- GitHub: [Azura-Deeper](https://github.com/AzuraDev202)
 - LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azura-Deeper&theme=dark" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Azura-Deeper&show_icons=true&hide=prs&count_private=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzuraDev202&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AzuraDev202&show_icons=true&hide=prs&count_private=true&theme=dark" alt="GitHub Stats"/>
 </div>
 
 ---
