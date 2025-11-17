@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer, creator, and lifelong 
 ---
 
 <div align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=AzuraDev202&theme=dark](https://github-readme-streak-stats.herokuapp.com/?user=AzuraDev202&theme=dark)" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzuraDev202&theme=dark" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api?username=AzuraDev202&show_icons=true&hide=prs&count_private=true&theme=dark" alt="GitHub Stats"/>
 </div>
 
