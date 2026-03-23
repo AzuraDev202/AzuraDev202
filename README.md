@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate developer, creator, and lifelong 
 
 ### 📫 How to reach me
 
-- Email: **hunghs25202@gmail.com**
+- Email: **Azura.dev.02@gmail.com**
 - GitHub: [Azura-Deeper](https://github.com/AzuraDev202)
 # - LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
 
